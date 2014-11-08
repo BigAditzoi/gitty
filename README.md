@@ -1,4 +1,4 @@
 gitty
 =====
 
-Training
+Training for chapter 2 of the Git book redux.
